@@ -14,8 +14,8 @@ const Weather = ({ temperature }) => {
 
 const styles = StyleSheet.create({
   temperatureText: {
-    fontSize: 35,
-    color: COLORS.green,
+    fontSize: 45,
+    color: COLORS.white,
     fontWeight: "bold",
   },
 });
